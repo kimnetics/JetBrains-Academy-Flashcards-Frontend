@@ -12,6 +12,8 @@ Questions are shown on the front of the cards. If the user hovers the mouse over
 </br>
 <img src="screenshot2.png">
 
+Try the app out at [CodePen](https://codepen.io/kimnetics/pen/MWPeWBR).
+
 ## Notes
 
 The relative directory structure was kept the same as the one used in my JetBrains Academy solution.
