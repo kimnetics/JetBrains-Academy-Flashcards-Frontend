@@ -12,7 +12,7 @@ Questions are shown on the front of the cards. If the user hovers the mouse over
 </br>
 <img src="screenshot2.png">
 
-Try the app out at [CodePen](https://codepen.io/kimnetics/pen/MWPeWBR).
+Try the application out at [CodePen](https://codepen.io/kimnetics/pen/MWPeWBR).
 
 ## Notes
 
